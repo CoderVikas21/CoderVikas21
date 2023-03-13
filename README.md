@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Vikas</h1>
 <h3 align="center">A Young, Passionate & Ambitious programmer</h3>
-<img align="right" alt="Coding" width="400" src="[https://github.com/rudrabarad/Gifs](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codervikas21&label=Profile%20views&color=0e75b6&style=flat" alt="codervikas21" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 💬 Ask me about **C++ , DSA and OOPS**
 
-- 📫 How to reach me **vikassinghsani@gmail.com**
+- 📫 Reach me at **vikassinghsani@gmail.com**
 
-- 👨‍💻I'm also active in [Sports]
+- 🏆 I'm also active in Sports
 
-- ⚡ Fun fact **My bugs are actually "undocumented features".**
+- ⚡ Fun fact: **My bugs are actually "undocumented features".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
