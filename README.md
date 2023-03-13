@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **C++,Data Structure & Algorithms**
 
-- 👨‍💻I'm also active in [Sports](Sports)
-
 - 💬 Ask me about **C++ , DSA and OOPS**
 
 - 📫 How to reach me **vikassinghsani@gmail.com**
+
+- 👨‍💻I'm also active in [Sports]
 
 - ⚡ Fun fact **My bugs are actually "undocumented features".**
 
