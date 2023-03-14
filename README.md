@@ -19,6 +19,7 @@
 <a href="https://www.hackerrank.com/vikas_sani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikas_sani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codervikas10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codervikas10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vikassani21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikassani21" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/Vikas_Coder" target="blank"><img align="center" src="https://s3-ap-southeast-1.amazonaws.com/codestudio.codingninjas.com/codestudio/assets/icons/codestudio-logo.svg" id="app-header-logo" alt="CodeStudio" class="large-logo ng-star-inserted" alt="vikas_sani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
