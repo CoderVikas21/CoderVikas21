@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codervikas21&label=Profile%20views&color=0e75b6&style=flat" alt="codervikas21" /> </p>
 
-- 🌱 I’m currently learning **C++,Data Structure & Algorithms**
+- 🌱 I’m currently learning **C++,DSA & Web-Development**
 
 - 💬 Ask me about **C++ , DSA and OOPS**
 
