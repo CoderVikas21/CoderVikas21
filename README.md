@@ -1,16 +1,16 @@
 <h1 align="center">Hello, I'm Vikas</h1>
-<h3 align="center">A Young, Passionate & Ambitious programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">Young-Hardworking-Enthusiastic</h3>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codervikas21&label=Profile%20views&color=0e75b6&style=flat" alt="codervikas21" /> </p>
 
-- 🌱 I’m currently learning **C++,DSA & Web-Development**
 
-- 💬 Ask me about **C++ , DSA , FrontEnd**
+- 🌱 I’m currently learning **Web-Development & React**
+
+- 💬 Ask me about **C++ , DSA ,OOPS & FrontEnd**
 
 - 📫 Reach me at **vikassinghsani@gmail.com**
 
-- 🏆 I'm also active in Sports
+- 🏆 I'm also active in Open Source Contribution & Leetcode
 
 - ⚡ Fun fact: **My bugs are actually "undocumented features".**
 
