@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Web-Development & React**
+- 🌱 I’m currently learning **Frontend Development & ReactjS**
 
 - 💬 Ask me about **C++ , DSA ,OOPS & FrontEnd**
 
